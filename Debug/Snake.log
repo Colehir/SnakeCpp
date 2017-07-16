@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\cole fau\cop3014\test\snake\main.cpp(191): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Cole FAU\COP3014\Test\Snake\Debug\Snake.exe for writing
